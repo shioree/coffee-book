@@ -1,4 +1,4 @@
-# coffeebook
+# coffee-book
 コーヒーのレシピを記録するサービスです。
 
 [こちら](https://coffeebookstatichosting.z11.web.core.windows.net/)から動作をご覧いただけます。  
